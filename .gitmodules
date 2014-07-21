@@ -1,0 +1,51 @@
+[submodule "packages/EABase"]
+	path = packages/EABase
+	url = git@github.com:kitsilanosoftware/EABase.git
+[submodule "packages/EAAssert"]
+	path = packages/EAAssert
+	url = git@github.com:kitsilanosoftware/EAAssert.git
+[submodule "packages/cairo"]
+	path = packages/cairo
+	url = git@github.com:kitsilanosoftware/cairo.git
+[submodule "packages/coreallocator"]
+	path = packages/coreallocator
+	url = git@github.com:kitsilanosoftware/coreallocator.git
+[submodule "packages/DirtySDK"]
+	path = packages/DirtySDK
+	url = git@github.com:kitsilanosoftware/DirtySDK.git
+[submodule "packages/EAIO"]
+	path = packages/EAIO
+	url = git@github.com:kitsilanosoftware/EAIO.git
+[submodule "packages/libjpeg"]
+	path = packages/libjpeg
+	url = git@github.com:kitsilanosoftware/libjpeg.git
+[submodule "packages/EASTL"]
+	path = packages/EASTL
+	url = git@github.com:kitsilanosoftware/EASTL.git
+[submodule "packages/EAText"]
+	path = packages/EAText
+	url = git@github.com:kitsilanosoftware/EAText.git
+[submodule "packages/FreeType"]
+	path = packages/FreeType
+	url = git@github.com:kitsilanosoftware/FreeType.git
+[submodule "packages/JavaScriptCore"]
+	path = packages/JavaScriptCore
+	url = git@github.com:kitsilanosoftware/JavaScriptCore.git
+[submodule "packages/libpng"]
+	path = packages/libpng
+	url = git@github.com:kitsilanosoftware/libpng.git
+[submodule "pixman"]
+	path = packages/pixman
+	url = git@github.com:kitsilanosoftware/pixman.git
+[submodule "packages/PPMalloc"]
+	path = packages/PPMalloc
+	url = git@github.com:kitsilanosoftware/PPMalloc.git
+[submodule "packages/SQLite"]
+	path = packages/SQLite
+	url = git@github.com:kitsilanosoftware/SQLite.git
+[submodule "packages/UTFXml"]
+	path = packages/UTFXml
+	url = git@github.com:kitsilanosoftware/UTFXml.git
+[submodule "packages/zlib"]
+	path = packages/zlib
+	url = git@github.com:kitsilanosoftware/zlib.git
