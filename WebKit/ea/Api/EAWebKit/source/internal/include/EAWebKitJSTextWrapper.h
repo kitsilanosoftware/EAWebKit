@@ -32,7 +32,7 @@ THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 #include <string.h>
 #include <EABase/eabase.h>
-#include <JavaScriptCore/API/JSTextInterface.h>
+#include <API/JSTextInterface.h>
 
 
 namespace EA
